@@ -22,9 +22,10 @@ Aplicación móvil desarrollada con Ionic Framework y Angular que utiliza la cá
    cd camara-app
 
 2. **Evidencias**
-| Vista / Flujo | Capturas de Pantalla |
-| :---: | :---: |
-| **Pestaña Principal / Galería** | <img src="https://github.com/user-attachments/assets/15a10b96-6465-4e8c-9658-8a7b6f5898f6" width="250" /> |
-| **Captura de Foto / Cámara** | <img src="https://github.com/user-attachments/assets/04405852-be28-45c0-a3c3-12df67bfdb5b" width="250" /> |
-| **Opciones de Foto (Eliminar)** | <img src="https://github.com/user-attachments/assets/e40d3dac-7949-4122-804d-b12f4669cf34" width="250" /> |
-| **Estado Actualizado** | <img src="https://github.com/user-attachments/assets/11a7f7c7-851d-4c22-9d40-665d08c1b20f" width="250" /> |
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15a10b96-6465-4e8c-9658-8a7b6f5898f6" width="220" />
+  <img src="https://github.com/user-attachments/assets/04405852-be28-45c0-a3c3-12df67bfdb5b" width="220" />
+  <img src="https://github.com/user-attachments/assets/e40d3dac-7949-4122-804d-b12f4669cf34" width="220" />
+  <img src="https://github.com/user-attachments/assets/11a7f7c7-851d-4c22-9d40-665d08c1b20f" width="220" />
+</p>
