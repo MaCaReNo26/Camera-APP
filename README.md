@@ -15,7 +15,7 @@ Aplicación móvil desarrollada con Ionic Framework y Angular que utiliza la cá
 
 ## Instalación y Ejecución
 
-1. **Clonar el repositorio:**<img width="720" height="1576" alt="image" src="https://github.com/user-attachments/assets/11a7f7c7-851d-4c22-9d40-665d08c1b20f" />
+1. **Clonar el repositorio:**
 
    ```bash
    git clone https://github.com/MaCaReNo26/Camera-APP.git
@@ -29,4 +29,4 @@ Aplicación móvil desarrollada con Ionic Framework y Angular que utiliza la cá
 
 <img width="720" height="1576" alt="image" src="https://github.com/user-attachments/assets/e40d3dac-7949-4122-804d-b12f4669cf34" />
 
-![Uploading image.png…]()
+<img width="720" height="1576" alt="image" src="https://github.com/user-attachments/assets/11a7f7c7-851d-4c22-9d40-665d08c1b20f" />
